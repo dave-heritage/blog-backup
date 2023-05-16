@@ -3,6 +3,7 @@ title: "What are Python Lambdas? How do I use them?"
 datePublished: Sat May 13 2023 19:08:14 GMT+0000 (Coordinated Universal Time)
 cuid: clhmd18xm000709jyghh4c5ho
 slug: what-are-python-lambdas-how-do-i-use-them
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684262820882/097c38ff-b6b7-4704-8d7e-ffa5b20d64ca.png
 tags: lambda, python, python-beginner
 
 ---
