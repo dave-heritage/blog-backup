@@ -4,6 +4,7 @@ seoTitle: "Transform your data with Python's Map, Filter, and Sorted Functions"
 datePublished: Tue May 16 2023 18:10:51 GMT+0000 (Coordinated Universal Time)
 cuid: clhqlazud000009l3hyp0dlvb
 slug: three-helpful-python-functions-to-know
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684262694592/b359675e-1011-4301-a9d8-d20e02a57c6f.png
 tags: python, python-beginner, codingnewbies
 
 ---
